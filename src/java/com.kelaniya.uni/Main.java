@@ -1,17 +1,11 @@
 package com.kelaniya.uni;
 
-import java.io.*;
-public class Main
-{
-    public static void main(String[] args) throws Exception {
+import java.io.FileNotFoundException;
 
-        File file = new File("Calculator/src/java/com.kelaniya.uni/numbers.txt");
-
-        BufferedReader br = new BufferedReader(new FileReader(file));
-
-        String st;
-        while ((st = br.readLine()) != null)
-            System.out.println(st);
+public class Main{
+    public static void main(String[] args) throws FileNotFoundException {
+        Cal calculator= new Cal();//Creating an object from Calculator class
+        calculator.user_input();
+        calculator.calculating();
     }
-
 }
