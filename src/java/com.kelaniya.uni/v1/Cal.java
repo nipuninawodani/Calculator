@@ -1,4 +1,4 @@
-package com.kelaniya.uni;
+package v1;
 
 import java.io.File; //To read from file
 import java.io.FileNotFoundException;//For exception handling in reading from text file
