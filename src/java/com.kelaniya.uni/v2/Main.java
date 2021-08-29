@@ -12,9 +12,9 @@ public class Main {
             return;
         }
 
-        String operator = args[0];
+       String operator = args[0];
 
-        if (!((operator.equals("add") || (operator.equals("sub") || (operator.equals("mul"))) {
+        if (   ! ( (operator.equals("add") || operator.equals("sub") || operator.equals("mul") ) )   ) {
             System.out.println("Please provide ass, sub or mul as the operator argument");
             return;
         }
