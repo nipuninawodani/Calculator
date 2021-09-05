@@ -11,7 +11,7 @@ public class FileReader {
 
         //read the numbers from the txt file
         List<String> numbersStrs = Files.readAllLines(
-                Paths.get("Calculator/src/java/com.kelaniya.uni/v1/numbers.txt")
+                Paths.get("src/java/com.kelaniya.uni/numbers.txt")
         );
 
         double number1 = Double.parseDouble(numbersStrs.get(0));

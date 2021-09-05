@@ -11,9 +11,10 @@ public class OperationFactory {
             operation = new SubOperation();
         } else if (operator.equals("mul")) {
             operation = new MulOperation();
-        }
-
-        return  operation;
+        }else if (operator.equals("div")) {
+                operation = new MulOperation();
+        }// violation of ocp -> this is a known violation
+        return operation;
 
     }
 }
