@@ -1,6 +1,12 @@
-package java.com.kelaniya.uni.v5;
+package com.kelaniya.uni.V5;
 
-import java.com.kelaniya.uni.v5.UI.CmdLineUI;
+import com.kelaniya.uni.V5.input.Inputs;
+import com.kelaniya.uni.V5.operation.Operation;
+import com.kelaniya.uni.V5.operation.OperationFactory;
+import com.kelaniya.uni.V5.repository.NumberRepository;
+import com.kelaniya.uni.V5.ui.UI;
+
+import java.io.IOException;
 
 public class CalculatorApp {
 
@@ -10,20 +16,20 @@ public class CalculatorApp {
     private final UI ui;
 
     public CalculatorApp(Inputs inputs, NumberRepository numberRepository, OperationFactory operationFactory, UI ui) {
-
         this.inputs = inputs;
         this.numberRepository = numberRepository;
         this.operationFactory = operationFactory;
         this.ui = ui;
     }
 
-    public void execute(){
+    public void execute() throws IOException { //will change this in the future
 
         String operator = inputs.getOperator();
         Double[] numbers = numberRepository.getNumbers();
-        Operation operation = operationFactory.getInstances(operator);
+        Operation operation = operationFactory.getInstance(operator);
         Double result = operation.execute(numbers);
-        ui.showMessage("the result is" + result);
+        ui.showMessage("The result is " + result);
+
     }
 
 }

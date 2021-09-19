@@ -1,5 +1,7 @@
-package java.com.kelaniya.uni.v5.Input;
+package com.kelaniya.uni.V5.input;
 
 public interface Inputs {
+
     String getOperator();
+
 }
