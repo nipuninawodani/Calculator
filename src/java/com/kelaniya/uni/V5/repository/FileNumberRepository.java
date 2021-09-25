@@ -11,7 +11,7 @@ public class FileNumberRepository implements NumberRepository {
     public Double[] getNumbers() throws IOException {
         //File reading
         List<String> numbersStrs = Files.readAllLines(
-                Paths.get("/Users/pasandevin/My_Files/Software Construction/Calculator/numbers.txt")
+                Paths.get("numbers.txt")
         );
 
         double number1 = Double.parseDouble(numbersStrs.get(0));

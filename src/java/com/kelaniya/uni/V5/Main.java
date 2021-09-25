@@ -14,14 +14,12 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-
         Inputs inputs = new CommandLineInputs(args);
         NumberRepository numberRepository = new FileNumberRepository();
         OperationFactory operationFactory = new OperationFactory();
         UI ui = new CmdLineUI();
         CalculatorApp app = new CalculatorApp(inputs, numberRepository, operationFactory, ui);
         app.execute();
-
     }
 
 }

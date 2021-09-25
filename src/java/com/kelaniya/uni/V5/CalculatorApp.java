@@ -32,11 +32,10 @@ public class CalculatorApp {
         try {
             result = operation.execute(numbers);
         } catch (InvalidOperationException e) {
-            ui.showMessage("Error Occured! " + e.getMessage());
+            ui.showMessage("Error Occurred! " + e.getMessage());
             return;
         }
         ui.showMessage("The result is " + result);
-
     }
 
 }
