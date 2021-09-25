@@ -4,149 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c72657-8743-42e9-8725-543c82370395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/InvalidCalcOperationexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/AddOperationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/DivOperationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/MulOperationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/SubOperationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v1/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v1/Cal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/CommandLineInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/CommandLineInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/Operation/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/AddOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/Operation/MulOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/MulOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v3/Operation/SubOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/SubOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/CommandLineInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/CommandLineInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/AddOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/DivOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/DivOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/MulOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/MulOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/OperationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/OperationFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/Operation/SubOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/SubOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v4/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/CalculatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/CalculatorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/input/CommandLineInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/input/CommandLineInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/input/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/input/Inputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/AddOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/DivOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/DivOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/MulOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/MulOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/OperationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/OperationFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/operation/SubOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/SubOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/repository/FileNumberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/repository/FileNumberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/repository/NumberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/repository/NumberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/ui/CmdLineUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/ui/CmdLineUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com.kelaniya.uni/v5/ui/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/ui/UI.java" afterDir="false" />
+    <list default="true" id="3f93fd10-9080-4f27-a17c-c804dc7b3115" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php-inspections-ea-ultimate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/numbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v1/Cal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/CommandLineInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/AddOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/MulOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v3/Operation/SubOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/CommandLineInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/AddOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/DivOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/MulOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/OperationFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/Operation/SubOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v4/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/CalculatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/input/CommandLineInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/input/Inputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/AddOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/DivOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/InvalidCalcOperationexception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/MulOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/OperationFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/operation/SubOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/repository/FileNumberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/repository/NumberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/ui/CmdLineUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.kelaniya.uni/v5/ui/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/AddOperationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/DivOperationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/MulOperationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.kelaniya.uni.v5.operation/SubOperationTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1yMM5i7O2VLDkM8ZU0e99Z8kp6v" />
-  <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showModules" value="false" />
-    <option name="showVisibilityIcons" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.google.cloudcode.ide_session_index" value="20210919_0002" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nipuni\OneDrive - University of Kelaniya\Desktop\Uni\2nd Year\1st semester\SENG 21222 -Software Construction\Assignments\PROJECT 01\Calculator\src\test\java" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nipuni\OneDrive - University of Kelaniya\Desktop\Uni\2nd Year\1st semester\SENG 21222 -Software Construction\Assignments\PROJECT 01\Calculator\src\main\java" />
-      <recent name="C:\Users\Nipuni\OneDrive - University of Kelaniya\Desktop\Uni\2nd Year\1st semester\SENG 21222 -Software Construction\Assignments\PROJECT 01\Calculator\src\main\com.kelaniya.uni\v5" />
-      <recent name="C:\Users\Nipuni\OneDrive - University of Kelaniya\Desktop\Uni\2nd Year\1st semester\SENG 21222 -Software Construction\Assignments\PROJECT 01\Calculator\src\test\java" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="26c72657-8743-42e9-8725-543c82370395" name="Default Changelist" comment="" />
-      <created>1632056823087</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1632056823087</updated>
-      <workItem from="1632056824774" duration="174000" />
-      <workItem from="1632057339641" duration="1176000" />
-      <workItem from="1632058992827" duration="7358000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
