@@ -9,18 +9,14 @@ public class CommandLineInputs implements Inputs {
         this.args = arguments;
     }
 
-    public String getOperator() {
+    public String getOperator() throws invalidInputException {
         // Validating the arguments before using
         if (args.length == 0) {
-            System.out.println("Please provide the operation as an argument");
-            return ""; //will change in the future
+            throw new invalidInputException ("Please provide the operator as an argument");
         }
-
         String operator = args[0];
-
         if (!(operator.equals("add") || operator.equals("sub") || operator.equals("mul") || operator.equals("div"))) {
-            System.out.println("Please provide add, sub or mul as the operator argument");
-            return "";
+            throw new invalidInputException("Please provide add, sub or mul as the operator argument");
         }
 
         return operator; //will change in the future
