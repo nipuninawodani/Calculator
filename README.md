@@ -21,7 +21,8 @@ Desirable Characteristics of a Design that tried to enhance by ths project :
 
 
 ●SOLID principles 
-  The SOLID principles tells how to arrange our functions and data structures into classes, and howthose classes should be interconnected
+ 
+The SOLID principles tells how to arrange our functions and data structures into classes, and howthose classes should be interconnected
 
 01)Single responsibility principle - SRP
 	 A class should have only a single responsibility.
@@ -49,7 +50,7 @@ Desirable Characteristics of a Design that tried to enhance by ths project :
 	A class in which each variable is used by each method is maximally cohesive.
 
 ●Classes to Avoid
-	Avoid creating god classes - Avoid creating omniscient classes that are all-knowing and all-powerful. Ask whether that functionality might better be organized into those       other classes rather than into the god class. Ex: Util classes, Manager classes
+	Avoid creating god classes - Avoid creating omniscient classes that are all-knowing and all-powerful. Ask whether that functionality might better be organized into             those other classes rather than into the god class. Ex: Util classes, Manager classes
 	Avoid classes named after verbs - A class that has only behavior but no data is generally not really a class. Consider turning a class like DatabaseInitialization() or         StringBuilder() into a routine on some other class.
 
 
